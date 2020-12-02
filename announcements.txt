@@ -1,0 +1,41 @@
+06/05/2020
+Keep Door Open added to FSRP Aspects
+  Holding the vehicle exit hotkey (keyboard F or gamepad Y) will cause the door to remain open.
+  Aiming down sights (mouse right click hold) while holding the vehicle exit hotkey will cause you to exit the vehicle with the door open and your combat pistol at the ready.
+
+06/01/2020
+Branding Update & Discord Rich Presence
+  Server branding updated & Discord will now display player/server information!
+  
+05/28/2020
+Added Domestic Disturbance callout by @427 - mc22697
+
+05/23/2020
+Updated to FivePD 1.0.6.1
+FSRP Aspects implemented
+  See slash commands
+Friendly Fire enabled
+  Watch that crossfire!
+Added Trespassing callout by @427 - mc22697
+
+Client mod pack
+  Optional client side mods: siren and combat pistol sounds
+  (See Discord #server-updates for link)
+  
+05/01/2020
+Server updated to FivePD 1.0.5
+Highlights:
+FIXED -
+  Performance optimization 
+  Ped interaction were not working (sometimes) 
+CHANGED -
+  Consolidated the dispatch and scene management menus to one button (G)     (They listened!)
+  Reworked the ped and the traffic stop interaction menus 
+  Vehicles will avoid placed objects
+ADDED -
+  If you set a speedzone with 0 MPH and you want the vehicles that are in the zone to go away, press the Let vehicles go button 
+  Different callout name color (Code 1 - Blue , Code 2 - Orange, Code 3 - Red )
+
+See full changelog here: https://gtapolicemods.com/index.php?/forums/topic/949-fivepd-v105-update/
+
+*note - This means that the controller key binding collision avoidance is temporarily removed until it's updated as well as the search items being back to vanilla until updated.
